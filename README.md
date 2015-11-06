@@ -3,4 +3,4 @@ This program can be used to scrape the news articles from major news agents like
 
 It uses a Breadth first search method for traversing the webpages. The useful information are extracted using regular experssion matching algorithms.
 
-
+The unstructured data on news webpages can therefore be transformed into well-structured knowledge.
